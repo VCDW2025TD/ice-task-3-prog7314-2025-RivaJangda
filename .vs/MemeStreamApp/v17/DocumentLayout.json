@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\MemeStreamApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74950D8-F0C5-4A1E-802A-1834766836F3}|MemeStreamApp\\MemeStreamApp.csproj|c:\\users\\lab_services_student\\source\\repos\\memestreamapp\\memestreamapp\\meme.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C74950D8-F0C5-4A1E-802A-1834766836F3}|MemeStreamApp\\MemeStreamApp.csproj|solutionrelative:memestreamapp\\meme.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74950D8-F0C5-4A1E-802A-1834766836F3}|MemeStreamApp\\MemeStreamApp.csproj|c:\\users\\lab_services_student\\source\\repos\\memestreamapp\\memestreamapp\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C74950D8-F0C5-4A1E-802A-1834766836F3}|MemeStreamApp\\MemeStreamApp.csproj|solutionrelative:memestreamapp\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meme.js",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MemeStreamApp\\MemeStreamApp\\Meme.js",
+              "RelativeDocumentMoniker": "MemeStreamApp\\Meme.js",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MemeStreamApp\\MemeStreamApp\\Meme.js",
+              "RelativeToolTip": "MemeStreamApp\\Meme.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-22T13:52:19.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MemeStreamApp\\MemeStreamApp\\server.js",
+              "RelativeDocumentMoniker": "MemeStreamApp\\server.js",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MemeStreamApp\\MemeStreamApp\\server.js",
+              "RelativeToolTip": "MemeStreamApp\\server.js",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-22T13:50:50.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
